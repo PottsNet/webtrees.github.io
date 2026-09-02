@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery of webtrees sites
-date: 2026-07-31
+date: 2026-09-02
 sitemap:
     priority: 0.80
 ---
@@ -13,14 +13,13 @@ These are examples of webtrees sites from around the world.  The list was last c
 |---|---|---|---|---|---|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.2.x installations</b>| | | | |
-| [Families of Rob Peters and Janice Johannsen](https://www.skatekey.net) |![Peters Genealogie](https://skatekey.net/local-files/logo.png) |Colors: Ash|2.2.6dev|[nl, us](https://skatekey.net/tree/peters/place-list)|[Rob Peters](mailto:makitso@gmail.com)|
-| &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Amann, Huber, Jäger, Mathis](https://www.verwandten.info/wt1) |Stammbaum-Netzwerk,<br>access restricted to users|Xenea|2.2.6|[de](https://www.verwandten.info/wt1/index.php?route=%2Fwt1%2Ftree%2Fstb%2Fplace-list)|otmar.mayr|
 | [Barbel, Petit, Oger, Miannay](https://genealogie.barbel.synology.me/)|on a home NAS<br>[Faces, Reminder](#1), [GVExport](#4), [Fan chart](#8)|Colors: Coffe and Creme|2.2.6|[fr](https://genealogie.barbel.synology.me/index.php?route=%2Ftree%2Fbarbel-petit%2Fplace-list)|[Yannick Barbel](mailto:yannick.barbel@sfr.fr)|
 | [Bendinelli, Bargagna, Catassi, Landi](http://webtrees.bendinelliclaudio.it) |separate trees of Bendinelli, Bargagna and Catassi| Xenea | 2.2.6 | it |[Claudio Bendinelli](mailto:claudio@bendinelliclaudio.it)|
 | [Bijlholt, Mulder, Bodewes, Smit](https://www.onsverleden.eu/webtrees/tree/bijlholt)|[GVExport](#4), [JC Treeview](#2), [Vesta](#3)|JustBlack|2.2.6|nl| Newbie67 |
 | [Bournias, Μπουρνιάς](http://webtrees.bournias.net) |The Bournias family tree|minimal|2.2.6|gr|[Peter Anthony Bournias](mailto:pbournias@bournias.net)|
 | ![ ](https://przodkowie.net/media/inne/drzewo_logo.png) [Bożyczko, Mackiewicz, Chara, Kotowicz](https://przodkowie.net) |public access restricted to surnames|Colors: Ash|2.2.6|pl|[Andrzej Piszczako](mailto:andpisz@gmail.com)|
+| [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors: Belgian Chocolate|2.2.6|cat|[Pep Planas Vilà](mailto:jplanes@calvermell.cat)|
 | [Chiele](https://www.chiele.net)|  |webtrees|2.2.6|br, it|[Alex Mauricio Chiele](mailto:alex.chiele@gmail.com)|
 | [Dolman](https://www.dolman.fr) | [Stories](https://dolman.fr/module/stories/ShowList/dolman.ged) |Dolman (Custom)|2.2.6|[fr, en](https://dolman.fr/tree/dolman.ged/place-list)|[Jean-Louis](mailto:jbyvosges@gmail.com)|
 | [![ ](https://freris.de/public/sc1.jpg "Fobbe, Frese")](https://freris.de) <br> Fobbe, Frese, Rumpf, Tusche|less is more<br>[JC Imagebar](#2),<br> [Vesta(look and relationalships)](#3),<br> [GVExport](#4),<br> [Ricos charts](#8) |Rural|2.2.6|[de,...](https://freris.de/tree/frese/place-list)|[Franz Frese](mailto:frese@freris.de)|
@@ -44,6 +43,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Orchard](https://www.ourkin.org) | |webtrees|2.2.6|au|[Michael Grocott](mailto:diveboy@gmail.com)|
 | [Osborne, Waghorn, Shearman, Firth](https://our-families.info) |Our Families: People, Places & History|our-families (Custom)|2.2.6|en|[Nigel Osborne](mailto:kiwi3685@me.com)|
 | [Paul](https://www.helmutpaul.at) |[Faces](#1), [JC Imagebar](#2), [Vesta](#3)|Colors: Sage|2.2.6|at|anjop|
+| [Families of Rob Peters and Janice Johannsen](https://www.skatekey.net) |![Peters Genealogie](https://skatekey.net/local-files/logo.png) |Colors: Ash|2.2.6|[nl, us](https://skatekey.net/tree/peters/place-list)|[Rob Peters](mailto:makitso@gmail.com)|
 | [Rauhut, Gasnier](https://wt.rauhut.eu) | Le Grand Arbre Commun <br>[Faces](#1), [JC Imagebar](#2), [JC Treeview](#2) |JustLight|2.2.6|fr, de, us|[Andreas Rauhut](mailto:andreas@rauhut.eu)|
 | [![ ](https://gustine.eu/gustine-2-100-gallery.webp)](https://gustine.eu) [Rivière, Freulon, Le Dû, Pillement](https://webtrees.gustine.eu) |[Vesta classic LaF, ext.relationships](#3),<br> [JC Treeview, Imagebar](#2), <br>[Magics charts](#8), <br>Sosa²⁰|JustLight|2.2.6|[fr](https://webtrees.gustine.eu/tree/Riviere-LeDu/place-list)|[Michel](mailto:gustine@ovh.fr)|
 | [Rhedey](https://rhedey.net/) | [Vesta](#3)|webtrees|2.2.6|hu|[Laszlo Rhedey](mailto:grhedey@gmail.com)|
@@ -59,7 +59,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Craig and Ennis Kin](https://craigkin.com/tree/Craig) | last modified 2016  |Craigkin (Custom)|2.2.5|us|[Patrick Craig](mailto:pacraig@gmail.com)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | [Kibys](http://www.ahnen-recherche.de/webtrees) | Ahnen-Recherche von Yvonne Kibys<br>last modified 2020 | JustBlack | 2.2.4 | de |[Yvonne Kibys](mailto:info@ahnen-recherche.de)|
-| [Vermell](https://www.calvermell.cat/webtrees) | Cal Vermell<br>[Faces](#1), [Stories](https://www.calvermell.cat/webtrees/module/stories/ShowList/Cal%20Vermell.ged)|Colors: Belgian Chocolate|2.2.4|cat|[Pep Planas Vilà](mailto:jplanes@calvermell.cat)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>2.1.x installations</b>| | | | |
 | [Gentelet - Jeantelet, Canal](https://www.jeantelet.fr/webtrees/index.php) | Généalogie des Jeantelet - Canal<br><br>Several Trees|webtrees|2.1.27|fr|[Eric Jeantelet](mailto:eric@jeantelet.fr)|
@@ -81,7 +80,6 @@ These are examples of webtrees sites from around the world.  The list was last c
 | [Les familles de Borso del Grappa](http://www.venarbol.net/borsodg31) |  |JustLight|2.0.25|it|[Nat_Bene](mailto:nvedovotto@outlook.fr)|
 | &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 | |<b>1.7.x installations</b>| | | | |
-| [Famille Cabaret-Potard](http://genea.mont-saint-jean.com) | |Xenea|1.7.20|fr| |
 | [Famille Gentric - Keraudren](http://andre.gentric.free.fr/webtrees) | last modified 2020 |webtrees|1.7.13|fr| |
 | [Généalogie de la famille de Prelle de la Nieppe](https://genealogie.deprelledelanieppe.be) |  |webtrees|1.7.19|be|[Info de Prelle](mailto:info@deprelledelanieppe.be)|
 | [Histoire et Généalogie des Fradin de Bellabre](https://www.bellabre.com) |  |JustLight|1.7.17|fr| |
